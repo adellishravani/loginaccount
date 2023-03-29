@@ -1,0 +1,14 @@
+.bg {
+  background-image: linear-gradient(to bottom, #2b2c49, #ffffff, #b5b9ff);
+  height: 100vh;
+  text-align: center;
+}
+.heading {
+  color: white;
+}
+.btnn {
+  color: rgb(84, 14, 141);
+  background-color: #b5b9ff;
+  padding: 15px;
+  border-radius: 5px;
+}
